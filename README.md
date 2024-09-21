@@ -22,6 +22,4 @@ but all the audio effects are disabled).
 Where to Download
 -----------------
 
-- Apple App Store: https://apps.apple.com/us/app/arpie/id570542456?ls=1
-
-- Google Play Store: https://play.google.com/store/apps/details?id=jp.radiumsoftware.arpie
+Instant Game Playable Web Link :- 
